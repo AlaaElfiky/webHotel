@@ -1,0 +1,228 @@
+.par
+{
+    background-color: #040;
+}
+
+
+/* DropDown Menu*/
+.dropdown-menu
+{
+    background: #fff;
+}
+
+/**/
+.dropdown-menu .divider
+{
+    background-color: #871818;   
+}
+body
+{
+    height: auto;
+    
+}
+.par
+{
+    color: black;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+
+
+/* Ctive link*/
+
+/*Main Navbar*/
+.navbar
+{
+    margin-top: 45px;
+    min-height: 60px; 
+    border-radius: 50px;
+}
+/* First Normal Link*/
+                
+.navbar-inverse .navbar-nav > li > a
+{
+    color: #D0D0D0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+
+/* Brand Name*/
+.navbar-inverse .navbar-brand 
+{
+    color: #D0D0D0;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.navbar-inverse .navbar-brand span
+{
+    color: #E41B17;  
+}
+
+/* DropDown Menu*/
+.dropdown-menu
+{
+    border-top: 3px solid #E41B17;
+}
+
+.dropdown-menu > li > a
+{
+        color: #000;
+        padding: 6px 20px;
+        min-width: 180px;
+        transition: padding 0.5s ease;
+}
+/**/
+.dropdown-menu > li > a:hover,
+.dropdown-menu >li >focus
+{ 
+    color: #fff;
+    padding-left: 30px;
+}
+
+.navbar-right .dropdown-menu
+{
+    left: 0;
+    right: auto;
+}
+/* Button In Phone Screen*/
+.navbar-toggle
+{
+    margin-top: 15px;   
+}
+.navv
+{
+    margin-bottom: 0px;
+}
+/*=================================================== data ===================*/
+
+body
+{
+     /*background: url('../images/bg.png')  ;*/
+    /*background: #e2e2e2;*/
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+.data
+{
+    margin-bottom: 10px;
+    margin-right: 0px;
+    
+}
+.recomnd-column
+{
+    background: #aaa;
+    height: auto;
+    margin-left: 10px;
+    
+}
+
+.recomndData
+{
+
+    margin-left: 5px;
+}
+
+.recomndData p
+{
+    font-size: 24px;
+}
+.items
+{
+    background: rgba(255,255,255,0.5);
+    height: auto;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-top: 2px;
+}
+.items ul
+{
+    font-size: 16px;
+}
+.recomndData {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.col-lg-4
+{
+    width: 25%;
+}
+.shaban
+{
+    /*background: #FFF;*/
+    min-height: 3000px;
+    height: auto;
+    padding-left: 100px;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+.ssss
+{
+     /*background:  url(../images/right-bot-corner.gif) repeat-x;*/
+     background: #88be14;
+     color: #FFF;
+     margin: 4px;
+     border-radius: 20px;
+     width: 30%;
+     padding-top: 20px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     
+}
+.ssss p
+{
+    font-size: 20px;
+}
+.btn {
+    margin-top: 15px;
+}
+//===================================
+
+
+/*.addproduct
+{
+    margin-left: 400px;
+}
+*/
+   .container {
+    background-color: #000;
+    opacity: 0.7;
+    height: 2000px;
+    width: 1000px;
+    border-radius: 20px;
+    margin-top: 35px;
+}
+.dddd
+{
+    padding-top: 10px;
+    margin-top: 20px;
+    width: 900px;
+    background: #000;
+    color: #871818;
+    border-radius: 50px;
+}
+
+.wwwww
+{
+    background: #D0D0D0;
+    margin-top: 200px;
+    color:#fff;
+    width: 600px;
+    
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+.user
+        {
+          background:url('../images/aaa.jpg')no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: cover;
+       
+       min-height: 500px;
+       width: 700px;
+        }
+
+.user .fields
+        {
+         background: rgba(9,9,9,0.85);
+          min-height: 700px;
+          color: #000;
+          padding-top: 30px;
+          padding-bottom: 40px;
+        }
+
+ .user h1
+        {
+             padding-left:180px;
+          font-weight: bold;
+          font-style: oblique;
+          font-size: 45px;
+          font-weight: bold;
+          color: #13829B;
+        }
+        
+        
+  .user p
+        {
+         margin-bottom: 30px;
+         margin-left: 60px;
+         font-style: italic;
+         padding-left:90px;
+         font-size: 22px;
+         color: #92253F;
+        }
+        
+  .user span
+  {
+    font-size: 30px;
+    color: #EA5959;
+    font-weight: bold;
+  }
+.user span>span
+{
+  font-size: 25px;
+  color: #13829B;
+}
+
+  
+  .form-group
+  {
+    margin-left: 50px;
+   
+  }
+  
+  .bb
+  {
+    margin-top: -485px;
+    width: 553px;
+    margin-left: 68px;
+  }
+  
+  .user input[type="text"]
+         {
+         background: rgba(85,70,66,.7);
+         border: none;
+         color: #fff;
+        }
+    .option
+    {
+     margin-right: 200px;   
+    }
+        
+        
+   .ss
+   {
+    margin-top: 183px;
+    padding-right: 137px;
+    margin-left: -547px;
+    height: 45px;
+     background: rgba(85,70,66,.7);
+     font-size: 17px;
+     color:#fff;
+     border: none;
+     border-radius:5px;
+     font-weight: bold;
+    
+   }
+   
+   .sss
+   {
+    margin-left: 23px;
+    margin-bottom: 500px;
+   }

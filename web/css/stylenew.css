@@ -1,0 +1,62 @@
+.first
+{
+    background: url('../images/p.jpg') no-repeat scroll center -20px #101010;
+}
+
+.second
+{
+    background: url('../images/s.jpg') no-repeat scroll center -20px #101010;
+}
+
+.third
+{
+    background: url('../images/a.jpg') no-repeat scroll center -20px #101010;
+}
+
+.vd
+{
+    background: #fff;
+ }
+
+.ll
+{
+    margin-top: 125px;
+     background: #E4F1FE;
+}
+.logo
+{
+    background: url('') ;
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 0;
+   
+    
+}
+
+.logo span
+{
+  font-size: 40px;
+   color: #fff;
+}
+
+.logo:hover
+{
+    color: red;
+     -webkit-transform:scale(1.2,1.2 );
+     -moz-transform:scale(1.2,1.2 );
+     -o-transform:scale(1.2,1.2 );
+     transform:scale(1.2,1.2)rotate;
+     
+     -webkit-transition: .7s ease;
+      -moz-transition:  .7s ease;
+      -o-transition:  .7s ease;
+      -transition:  .7s ease;
+}
+
+.footer-logo
+{
+   background: url('') ;
+    font-size: 50px;
+    font-weight: bold;
+    text-indent: 0;  
+}
